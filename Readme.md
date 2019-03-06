@@ -5,4 +5,4 @@
 - The campus is beautiful, persons are friendly
 - I love ZJE
 
-[This is a link to a website](https://github.com/)
+[This is a link to github](https://github.com/)
