@@ -1,8 +1,8 @@
-# This is a heading
-## This is another (smaller) heading
+# Welcome
+## My name is Lanqi
 
-- this is the beginning of a list
-- this is the next item in the list
-- and the next
+- I am a student at ZJE
+- The campus is beautiful, persons are friendly
+- I love ZJE
 
 [This is a link to a website](https://github.com/)
